@@ -34,8 +34,7 @@ description: Software Developer | An Engineer | Love to learn about Universe !
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Projects: "projects"
+  About Me: "aboutme"  
   Social:
     - LinkedIn: "https://www.linkedin.com/in/hemantsingh-ee1332/"
     - Github: "https://github.com/hemant-1332/"
