@@ -1,7 +1,6 @@
 ---
 title: "Digital Farming"
 tags: [Internet of Things, IoT, Smart India, GE]
-# share-img: "https://deanattali.com/img/blog/cranalerts/screenshot.PNG"
 permalink: /blog/digital-farming/
 date: 2016-03-30 05:00:00 -0400
 ---
