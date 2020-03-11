@@ -1,13 +1,20 @@
 ---
+layout: post
 title: "Digital Farming"
+subtitle: A digital-physical solution for Indian farmers
+image: '/img/projects/ge/ge-archi.jpg'
+#share-img: '/img/projects/ge/ge-archi.jpg'
 tags: [Internet of Things, IoT, Smart India, GE]
+show-avatar: true
 permalink: /blog/digital-farming/
+comments: true
 date: 2016-03-30 05:00:00 -0400
 ---
 
 <div style="margin-bottom: 25px;"></div>
 
 This project was done as part of GE Edison Challenge which is an open innovation challenge for the university student community in India, organized by the GE India Technology Centre (GEITC).
+
 
 The objective of challenge was to provide a digital-physical solution for India leveraging Internet of Things in sector like energy, healthcare, transportation and water.
 
@@ -16,7 +23,7 @@ We proposed our Digital Farming solution which was selected in top 25 all over t
 <div style="text-align:center;">
   <a>
     <img src="/img/projects/ge/ge-archi.jpg" alt="no css">
-    <p>Basanti - Prototype</p>
+    <p>Proposed Solution Design</p>
   </a>
   
 </div>

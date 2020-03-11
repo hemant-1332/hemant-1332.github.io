@@ -38,6 +38,12 @@ bigimg:
       <p class="post-meta">
         Posted on {{ post.date | date: "%B %-d, %Y" }}
       </p>
+      
+      {% if post.image %}
+        <div class="post-image">          
+            <img src="{{ post.image }}">          
+        </div>
+      {% endif %}
 
       <div class="post-entry">
         {{ post.content | truncatewords: 50 | strip_html | xml_escape}}

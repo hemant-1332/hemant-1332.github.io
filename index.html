@@ -6,6 +6,7 @@ css: "/css/index.css"
 meta-title: "Hemant Singh - SDE"
 meta-description: "Software developer"
 datacampcourse: false
+show-avatar: true
 bigimg:  
   - "/img/timeline/cruise.jpg" : "Halong Bay, Vietnam (2018)"
   - "/img/timeline/cruise-meal.jpg" : "Halong Bay, Vietnam (2018)"
@@ -30,7 +31,7 @@ bigimg:
   {% for post in paginator.posts %}
   <article>
     <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
-	    <h2 class="post-title">{{ post.title }}</h2>
+      <h2 class="post-title">{{ post.title }}</h2>      
 	
 	    {% if post.subtitle %}
 	    <h3 class="post-subtitle">
@@ -40,6 +41,13 @@ bigimg:
       <p class="post-meta">
         Posted on {{ post.date | date: "%B %-d, %Y" }}
       </p>
+      
+      {% if post.image %}
+        <div class="post-image">          
+            <img src="{{ post.image }}">          
+        </div>
+        {% endif %}
+      
 
       <div class="post-entry">
         {{ post.content | truncatewords: 50 | strip_html | xml_escape}}

@@ -1173,3 +1173,9 @@ article[role=main] {
   font-style: italic;
   font-size: 16px;
 }
+
+.post-image img {
+  border-radius: 100px;
+  height: 155px;
+  width: 155px;
+}
