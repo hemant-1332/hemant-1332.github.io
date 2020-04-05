@@ -16,7 +16,7 @@ date: 2016-03-30 05:00:00 -0400
 This project was done as part of GE Edison Challenge which is an open innovation challenge for the university student community in India, organized by the GE India Technology Centre (GEITC).
 
 
-The objective of challenge was to provide a digital-physical solution for India leveraging Internet of Things in sector like energy, healthcare, transportation and water.
+The objective of the challenge was to provide a digital-physical solution for India leveraging Internet of Things in sector like energy, healthcare, transportation and water.
 
 We proposed our Digital Farming solution which was selected in top 25 all over the India and we were called to  GE India Technology Centre to present the working prototype of same. 
 

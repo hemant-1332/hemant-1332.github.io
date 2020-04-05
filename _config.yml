@@ -27,6 +27,9 @@ paginate_path: "/page:num/"
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/hemantimg.jpg"
 
+jekyll-mentions:
+  target: blank
+
 # List of links in the navigation bar
 navbar-links:
   Blog: ""
@@ -37,6 +40,11 @@ navbar-links:
   Social:
     - LinkedIn: "https://www.linkedin.com/in/hemantsingh-ee1332/"
     - Github: "https://github.com/hemant-1332/"
+  Certifications:
+    - Machine Learning: "certificates/ml.pdf"    
+    - IoT Fundamentals: "certificates/iot-fundamentals.pdf"
+    - IoT Device Mgmt: "certificates/iot-dm.pdf"
+    - Data Structures: "certificates/ds-linkedin.pdf"
 #nav-search: "search"
 
 # --- Footer options --- #
