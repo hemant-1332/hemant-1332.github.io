@@ -36,7 +36,7 @@ navbar-links:
   #Shiny: "shiny"
   # Projects: "projects"
   About Me: "aboutme"
-  Resume: "resume/hemant_resume.pdf"
+  # Resume: "resume/hemant_resume.pdf"
   Social:
     - LinkedIn: "https://www.linkedin.com/in/hemantsingh-ee1332/"
     - Github: "https://github.com/hemant-1332/"
@@ -54,9 +54,9 @@ navbar-links:
 author:
   name: Hemant Singh
   email: "singh.hemant.1603@gmail.com"
-  facebook: striker.hemant
+  # facebook: striker.hemant
   github: hemant-1332
-  twitter: s_hemantsingh
+  # twitter: s_hemantsingh
   linkedin: hemantsingh-ee1332
   #stackoverflow: "users/hemant"
   #calendly: "hemant/meet"
